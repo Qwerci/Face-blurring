@@ -4,7 +4,7 @@
 ![input](data/1.jpeg)
 
 
-![output](output.png)
+![output](output/output.png)
 
 ## Description
 
