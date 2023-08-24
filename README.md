@@ -1,10 +1,10 @@
 # Face-blurring
 
 
-![input](data/1.png)
+![input](data/1.jpeg)
 
 
-![output](.png)
+![output](output.jpeg)
 
 ## Description
 
